@@ -5,10 +5,10 @@ function App() {
   return (
     <StyledContainer>
       <Button variant={"outlined"} disabled={"outlined"}>
-        outlined
+        outlinedd
       </Button>
       <Button variant={"contained"} disabled={"contained"}>
-        contained
+        containedd
       </Button>
       <Button variant={"Warning"} disabled={"Warning"}>
         Warning
